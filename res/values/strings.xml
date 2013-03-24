@@ -13,7 +13,7 @@
     <string name="exampleone">EX: rmnet0</string>
     <string name="fourth">4 - look at the Subnet mask</string>
     <string name="exampletwo">EX: 176.245.xx.yyy/16</string>
-    <string name="exampletwo1">("16" is ne number we are looking for)</string>
+    <string name="exampletwo1">("16" is the number we are looking for)</string>
     <string name="fifth">5 - Enter Interface and Subnet mask in the fields provided below</string>
     <string name="sixth">6 - Hit Enable!</string>
     <string name="Int_field">Interface</string>
