@@ -214,6 +214,7 @@ public class MainActivity extends Activity {
 			if (checkBox1.isChecked()==true) {
 				if (value.matches("")) {
 					alertDialog.show();
+					checkBox1.setChecked(false);
 				}
 				else {
             	CMDProcessor cmd = new CMDProcessor();
